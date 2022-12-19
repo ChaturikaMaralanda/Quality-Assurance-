@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Open URL]]>
+    </line>
+    <line>
+      <![CDATA[Element is Present]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-10T12:08:32 IST" name="Gmail Suite" finished-at="2022-07-10T12:08:53 IST" duration-ms="21097">
+    <groups>
+    </groups>
+    <test started-at="2022-07-10T12:08:32 IST" name="flipkart" finished-at="2022-07-10T12:08:53 IST" duration-ms="21097">
+      <class name="com.automation.testProject.TestOne">
+        <test-method signature="f()[pri:0, instance:com.automation.testProject.TestOne@c267ef4]" started-at="2022-07-10T12:08:32 IST" name="f" finished-at="2022-07-10T12:08:53 IST" duration-ms="21027" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open URL]]>
+            </line>
+            <line>
+              <![CDATA[Element is Present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.automation.testProject.TestOne -->
+    </test> <!-- flipkart -->
+  </suite> <!-- Gmail Suite -->
+</testng-results>
