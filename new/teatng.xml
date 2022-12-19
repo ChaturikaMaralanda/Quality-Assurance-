@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite thread-count="1" verbose="1" name="Gmail Suite" annotations="JDK" parallel="tests">
+         
+  <test name="flipkart">
+	 <classes>
+	   <class name="com.automation.testProject.TestOne"/>
+	 </classes>
+   </test>
+   
+  <!-- <test name="Myntra">
+     <classes>
+       <class name="com.suite2.SnapDeal"/>
+     </classes>
+   </test> -->
+</suite>
